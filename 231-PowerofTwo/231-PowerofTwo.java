@@ -1,4 +1,4 @@
-// Last updated: 6/5/2026, 2:42:44 PM
+// Last updated: 6/9/2026, 3:44:44 PM
 1class Solution {
 2    public boolean isPowerOfTwo(int n) {
 3         if(n<=0){
